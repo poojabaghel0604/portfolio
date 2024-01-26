@@ -10,7 +10,7 @@ html,body{
 #bg{
     height: 100%;
     width: 100%;
-    background-image: "C:\Users\Asus\Downloads\FREE_ Moon Background-Clear Sky by Magical-Mama on DeviantArt.jpg";
+    background-image: url("moon.webp");
     background-size: cover;
 }
 h1{
