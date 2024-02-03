@@ -383,7 +383,7 @@ profile-photo .img{
 /*---------------------------Contact Me---------------------------*/
 .contact-content{
   padding: 100px 0;
-  color: #fff;
+  color:black;
   text-align: center;
 }
 .contact-content .contact-title h4{
@@ -394,6 +394,7 @@ profile-photo .img{
 }
 .contact-content .contact-title p{
   padding-bottom: 20px;
+  color:wheat;
 }
 .contact{
   max-width: 700px;
@@ -418,7 +419,7 @@ profile-photo .img{
   cursor: pointer;
 }
 #msg{
-  color: #fff;
+  color:black;
   font-size: 20px;
   margin-top: -8px;
   display: block;
